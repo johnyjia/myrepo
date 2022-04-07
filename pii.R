@@ -7,3 +7,6 @@ plot (a, b, type = "l")
 
 plot (a, b, type = "S")
 
+
+plot (a, b, type = "s")
+
