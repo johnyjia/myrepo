@@ -1,7 +1,7 @@
 # myrepo
 
-This is a line from RStudio.
+## This is a line from RStudio.
 
-One more push.
+### One more push.
 
-cloned from github.
+#### cloned from github.
